@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.07680424.chunk.css",
-    "main.js": "/static/js/main.c02a9efb.chunk.js",
-    "main.js.map": "/static/js/main.c02a9efb.chunk.js.map",
+    "main.css": "/static/css/main.fc6448b2.chunk.css",
+    "main.js": "/static/js/main.1380acee.chunk.js",
+    "main.js.map": "/static/js/main.1380acee.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e5fc83a6.js",
     "runtime-main.js.map": "/static/js/runtime-main.e5fc83a6.js.map",
     "static/css/2.ddfacf9b.chunk.css": "/static/css/2.ddfacf9b.chunk.css",
-    "static/js/2.b10522f9.chunk.js": "/static/js/2.b10522f9.chunk.js",
-    "static/js/2.b10522f9.chunk.js.map": "/static/js/2.b10522f9.chunk.js.map",
+    "static/js/2.b1aefbff.chunk.js": "/static/js/2.b1aefbff.chunk.js",
+    "static/js/2.b1aefbff.chunk.js.map": "/static/js/2.b1aefbff.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0ddfb15b7cd551e61e7eb6daf0d2ae5b.js": "/precache-manifest.0ddfb15b7cd551e61e7eb6daf0d2ae5b.js",
+    "precache-manifest.0d1d5e3e2e5be62d317e6b415864db4d.js": "/precache-manifest.0d1d5e3e2e5be62d317e6b415864db4d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.ddfacf9b.chunk.css.map": "/static/css/2.ddfacf9b.chunk.css.map",
-    "static/css/main.07680424.chunk.css.map": "/static/css/main.07680424.chunk.css.map",
-    "static/js/2.b10522f9.chunk.js.LICENSE.txt": "/static/js/2.b10522f9.chunk.js.LICENSE.txt",
+    "static/css/main.fc6448b2.chunk.css.map": "/static/css/main.fc6448b2.chunk.css.map",
+    "static/js/2.b1aefbff.chunk.js.LICENSE.txt": "/static/js/2.b1aefbff.chunk.js.LICENSE.txt",
     "static/media/bootstrap.jpg": "/static/media/bootstrap.2ab167bd.jpg",
+    "static/media/express.jpg": "/static/media/express.4e6b6710.jpg",
     "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/fullStack.jpg": "/static/media/fullStack.d1cf30a7.jpg",
     "static/media/machineLearning.jpg": "/static/media/machineLearning.395ab955.jpg",
     "static/media/react.jpg": "/static/media/react.67ab55f4.jpg",
     "static/media/reactNative.jpg": "/static/media/reactNative.ce850528.jpg",
@@ -25,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.e5fc83a6.js",
     "static/css/2.ddfacf9b.chunk.css",
-    "static/js/2.b10522f9.chunk.js",
-    "static/css/main.07680424.chunk.css",
-    "static/js/main.c02a9efb.chunk.js"
+    "static/js/2.b1aefbff.chunk.js",
+    "static/css/main.fc6448b2.chunk.css",
+    "static/js/main.1380acee.chunk.js"
   ]
 }
